@@ -9,7 +9,7 @@ func main() {
 		salary float64 = 54000.546
 	)
 
-	fmt.Printf("Name: %x\n", name)
+	fmt.Printf("Name: %s\n", name)
 	fmt.Printf("Age: %d\n", age)
 	fmt.Printf("salary: %.2f", salary)
 }
