@@ -10,5 +10,5 @@ func main() {
 		salary              float64
 	)
 
-	fmt.Printf("%s %s %d %t %f", firstName, lastName, age, isConfirmed, salary)
+	fmt.Printf("%s %s %d %t %f\n", firstName, lastName, age, isConfirmed, salary)
 }
