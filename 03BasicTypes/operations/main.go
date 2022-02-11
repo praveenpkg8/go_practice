@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	var a, b int = 2, 3
+	var a, b int = 2, 4
 	var sol1 int = (a + b) * (a - b)
 
 	a++
